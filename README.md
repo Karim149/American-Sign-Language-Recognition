@@ -1,6 +1,6 @@
 # American-Sign-Language-Recognition
-Built a deep learning system to recognize American Sign Language (ASL) letters from image sequences. using CNNs, and correct predicted words using natural language processing.                         
-This project recognizes American Sign Language (ASL) alphabet letters from image sequence of hand gesture  using a Convolutional Neural Network (CNN). from individual letters, it constructs words and corrects them using a basic NLP spell-checker.
+                        
+This project recognizes American Sign Language (ASL) alphabet letters from image sequence of hand gesture  using a Convolutional Neural Network (CNN). from individual letters it constructs words and corrects them using a basic NLP spell-checker.
 
 ##  Features
 - Classifies ASL letters (A–Z, excluding J)
